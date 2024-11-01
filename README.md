@@ -1,5 +1,3 @@
-# Python-Sem1-Project
-Project
 import pygame   #import pygame library
 pygame.init()
 
